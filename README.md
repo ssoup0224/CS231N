@@ -4,6 +4,8 @@
 
 Course Lecture (Spring 2017): [click here](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
+Deep Learning Textbook (good to reference): [click here](https://www.deeplearningbook.org/)
+
 Original assignments and course notes: [click here](https://github.com/maxim5/cs231n-2020-spring)
 
 My CS231n assignment solutions (Spring 2020)
