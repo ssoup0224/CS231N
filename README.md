@@ -1,2 +1,31 @@
-# CS231N
-CS231N self study
+# CS231n: Deep Learning for Computer Vision
+
+[Course Home](http://cs231n.stanford.edu/) 
+
+Course Lecture (Spring 2017): [click here](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+
+Original assignments and course notes: [click here](https://github.com/maxim5/cs231n-2020-spring)
+
+My CS231n assignment solutions (Spring 2020)
+
+<!-- ex: [(_Done_)(https://github.com/maxim5/cs231n-2020-spring)] -->
+### Assignment1
+- k-Nearest Neighbor classifier
+- Training a Support Vector Machine
+- Implement a Softmax classifier
+- Two-Layer Neural Network
+- Higher Level Representations: Image Features
+
+### Assignment2
+- Fully-connected Neural Network
+- Batch Normalization
+- Dropout
+- Convolutional Networks
+- PyTorch / TensorFlow on CIFAR-10
+
+### Assignment3
+- Image Captioning with Vanilla RNNs
+- Image Captioning with LSTMs
+- Network Visualization: Salienc maps, Class Visualization, and Fooling Images
+- Style Transfer
+- Generative Adversarial Networks
