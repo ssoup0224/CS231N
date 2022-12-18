@@ -13,7 +13,7 @@ My CS231n assignment solutions (Spring 2020)
 ### Assignment1
 - k-Nearest Neighbor classifier 
 [(_Solution_)](https://github.com/ssoup0224/CS231N/blob/main/assignment1/knn.ipynb)
-[(Classifier)](https://github.com/ssoup0224/CS231N/blob/main/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
+[(_Classifier_)](https://github.com/ssoup0224/CS231N/blob/main/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
 - Training a Support Vector Machine
 - Implement a Softmax classifier
 - Two-Layer Neural Network
